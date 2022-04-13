@@ -8,18 +8,19 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ Part A creates and sets up a string library. Part B uses specific methods such as checking the number of vowels in a string, making the first and last two letters of a string into a new string, changing every letter that is the same to the first letter into *, gets the sum of ascii number of a string, and shift every letter in the string by the length of the string.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 3/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ None
 
 ## REFERENCES:
- < List any outside resources used >
+https://book.pythontips.com/en/latest/ternary_operators.html 
+https://realpython.com/list-comprehension-python/
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+None :)
